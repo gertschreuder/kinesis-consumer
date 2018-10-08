@@ -1,5 +1,5 @@
 # Kinesis Consumer
-## The project contains a Lambda that consumes a Kinesis stream, maps and presists data - including various tests.
+## The project contains a Lambda that consumes a Kinesis stream, maps and presists data in DynamoDb - including various tests.
 
  - - - -
 ## Requirements
