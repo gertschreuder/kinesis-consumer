@@ -1,0 +1,14 @@
+{
+  "providerId": {
+    "S": "800f5239-fd97-44bd-baf0-d9050776d3d2"
+  },
+  "id": {
+    "N": "1"
+  },
+  "status": {
+    "N": "1"
+  },
+  "desc": {
+    "S": "Sample Provider 1"
+  }
+}

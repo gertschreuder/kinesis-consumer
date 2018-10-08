@@ -1,0 +1,28 @@
+[{
+    "MessageId": "Id:1_ProviderId:800f5239-fd97-44bd-baf0-d9050776d3d2_TS:131829373715126738",
+    "MessageTimeStamp": "131829373715126738",
+    "Status": {
+        "ProviderId": "800f5239-fd97-44bd-baf0-d9050776d3d2",
+        "Id": 1,
+        "Status": 1,
+        "Description":"Sample Provider 1"
+    }
+},{
+    "MessageId": "Id:2_ProviderId:44f390c7-48e6-4f99-ba92-213f0e68fc30_TS:131829373715126738",
+    "MessageTimeStamp": "131829373715126738",
+    "Status": {
+        "ProviderId": "44f390c7-48e6-4f99-ba92-213f0e68fc30",
+        "Id": 2,
+        "Status": 1,
+        "Description":"Sample Provider 2"
+    }
+},{
+    "MessageId": "Id:3_ProviderId:12f741d7-981d-48dc-afe2-464b60323262_TS:131829373715126738",
+    "MessageTimeStamp": "131829373715126738",
+    "Status": {
+        "ProviderId": "12f741d7-981d-48dc-afe2-464b60323262",
+        "Id": 3,
+        "Status": 1,
+        "Description":"Sample Provider 3"
+    }
+}]

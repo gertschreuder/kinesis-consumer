@@ -1,0 +1,2 @@
+create-table --cli-input-json file:"//./src/enviroment/1.0.0.0_Heartbeat.json"
+#waittableactive#DevHeartbeat

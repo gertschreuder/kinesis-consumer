@@ -1,0 +1,6 @@
+{
+    "localStack": {      
+      "DynamoDB": 4569,
+      "SQS": 4576
+    }
+  }
